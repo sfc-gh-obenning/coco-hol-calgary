@@ -1,0 +1,21 @@
+pipeline_id,pipeline_name,cer_licence,operator,pipeline_type,max_throughput_bpd,diameter_inches,year_commissioned
+P001,Keystone XL,OC-61,TC Energy,natural_gas,350000,48,2001
+P002,Trans Mountain Expansion,OC-39,Trans Mountain Corp,dilbit,350000,24,2006
+P003,Enbridge Line 3,OC-59,Enbridge,ngls,1200000,48,1995
+P004,NOVA Gas Transmission,OC-89,TC Energy,natural_gas,350000,42,2003
+P005,Alliance Pipeline,OC-57,Pembina Pipeline,natural_gas,1200000,30,1999
+P006,Pembina Peace,OC-69,Pembina Pipeline,dilbit,830000,36,1995
+P007,TC Mainline,OC-77,TC Energy,crude_oil,590000,36,2015
+P008,Express Pipeline,OC-15,Enbridge,synthetic_crude,830000,24,2017
+P009,Milk River Pipeline,OC-36,Pembina Pipeline,synthetic_crude,830000,24,2019
+P010,Aurora Pipeline,OC-76,CNRL,dilbit,830000,42,1993
+P011,Cold Lake Pipeline,OC-55,Imperial Oil,dilbit,350000,30,2018
+P012,Athabasca Pipeline,OC-86,Enbridge,dilbit,830000,30,1992
+P013,Waupisoo Pipeline,OC-24,TC Energy,crude_oil,350000,42,2016
+P014,Polaris Pipeline,OC-20,Pembina Pipeline,natural_gas,1200000,24,1999
+P015,Horizon Connector,OC-49,CNRL,ngls,200000,42,2011
+P016,Christina Lateral,OC-27,Cenovus Energy,ngls,590000,30,1993
+P017,Surmont Pipeline,OC-91,Cenovus Energy,dilbit,590000,36,2024
+P018,Brintnell Pipeline,OC-61,Pembina Pipeline,dilbit,500000,42,1993
+P019,Kearl Connector,OC-26,Imperial Oil,ngls,1200000,30,2016
+P020,Hardisty Terminal Line,OC-25,Enbridge,crude_oil,200000,30,2008

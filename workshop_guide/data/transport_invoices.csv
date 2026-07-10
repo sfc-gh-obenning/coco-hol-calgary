@@ -1,0 +1,301 @@
+invoice_id,record_id,shipper_name,buyer_name,destination_city,volume_barrels,price_per_barrel_cad,total_value_cad,transport_mode,pipeline_tariff_per_bbl,invoice_date,payment_terms,wcs_discount_usd
+TI00001,PR0080,Pengrowth Energy,Suncor Commerce City,Sarnia,24684,54.89,1354904.76,pipeline,11.88,2025-08-16,PREPAID,13.27
+TI00002,PR0086,Canadian Natural Resources,Irving Oil,Sarnia,43547,51.87,2258782.89,truck,5.51,2025-12-13,PREPAID,12.43
+TI00003,PR0111,Whitecap Resources,PBF Energy,Sarnia,20134,74.43,1498573.62,pipeline,8.61,2025-02-01,NET30,20.1
+TI00004,PR0057,Athabasca Oil,PBF Energy,Saint John,4787,68.46,327718.02,rail,6.6,2025-06-05,PREPAID,14.69
+TI00005,PR0040,Suncor Energy,Calumet Specialty,Saint John,47083,83.74,3942730.42,pipeline,3.79,2025-09-04,NET45,17.01
+TI00006,PR0138,Husky Energy,Irving Oil,Wood River,35915,67.87,2437551.05,pipeline,10.67,2025-01-22,NET60,15.95
+TI00007,PR0154,Baytex Energy,Irving Oil,Detroit,14251,78.33,1116280.83,truck,4.4,2025-07-11,NET30,20.2
+TI00008,PR0136,Canadian Natural Resources,Irving Oil,Chicago,5839,77.94,455091.66,truck,9.51,2025-12-09,NET60,21.22
+TI00009,PR0028,Pengrowth Energy,Midwest Refining LLC,Chicago,47843,49.09,2348612.87,pipeline,3.62,2025-07-23,PREPAID,16.65
+TI00010,PR0128,Athabasca Oil,Calumet Specialty,Cushing,38005,51.15,1943955.75,pipeline,7.16,2025-09-20,PREPAID,11.32
+TI00011,PR0075,Suncor Energy,PBF Energy,Philadelphia,38985,71.69,2794834.65,rail,2.51,2025-04-12,NET30,13.36
+TI00012,PR0045,Imperial Oil,HollyFrontier,Montreal,30031,68.35,2052618.85,rail,8.92,2025-10-17,NET60,10.87
+TI00013,PR0031,Imperial Oil,US Gulf Refinery Corp,Montreal,11284,49.18,554947.12,truck,5.92,2025-03-11,NET30,9.0
+TI00014,PR0132,Husky Energy,Suncor Commerce City,Chicago,9760,66.59,649918.4,pipeline,7.2,2025-11-19,NET60,14.86
+TI00015,PR0099,Suncor Energy,HollyFrontier,Chicago,43254,77.61,3356942.94,rail,9.0,2025-05-01,NET60,8.12
+TI00016,PR0120,Husky Energy,Valero Energy,Philadelphia,7998,56.22,449647.56,pipeline,2.21,2025-01-13,NET45,18.82
+TI00017,PR0198,Whitecap Resources,US Gulf Refinery Corp,Detroit,46346,76.51,3545932.46,pipeline,9.27,2025-04-03,NET60,20.08
+TI00018,PR0032,Whitecap Resources,HollyFrontier,Toledo,18921,50.29,951537.09,pipeline,10.15,2025-03-23,PREPAID,13.96
+TI00019,PR0028,Whitecap Resources,Suncor Commerce City,Wood River,37801,66.0,2494866.0,pipeline,7.81,2025-07-13,NET60,18.03
+TI00020,PR0101,Imperial Oil,Midwest Refining LLC,Wood River,36834,78.1,2876735.4,pipeline,5.54,2025-02-02,NET30,13.85
+TI00021,PR0132,MEG Energy,Valero Energy,Houston,11281,68.54,773199.74,pipeline,2.32,2025-12-14,PREPAID,8.15
+TI00022,PR0131,Baytex Energy,HollyFrontier,Montreal,22789,61.51,1401751.39,pipeline,6.16,2025-03-21,PREPAID,9.57
+TI00023,PR0155,Baytex Energy,PBF Energy,Chicago,4330,46.36,200738.8,pipeline,9.1,2025-10-12,NET30,8.99
+TI00024,PR0181,Whitecap Resources,HollyFrontier,Montreal,16920,54.03,914187.6,rail,5.6,2025-12-07,NET60,19.63
+TI00025,PR0106,Imperial Oil,HollyFrontier,Saint John,18105,58.8,1064574.0,pipeline,7.23,2025-02-06,PREPAID,14.06
+TI00026,PR0090,Imperial Oil,Phillips 66,Philadelphia,4479,55.42,248226.18,pipeline,10.49,2025-09-14,NET30,11.06
+TI00027,PR0010,Imperial Oil,Irving Oil,Saint John,3459,49.88,172534.92,truck,9.53,2025-07-15,NET60,20.61
+TI00028,PR0197,Athabasca Oil,US Gulf Refinery Corp,Philadelphia,17845,64.5,1151002.5,rail,2.3,2025-03-17,NET60,15.99
+TI00029,PR0198,Imperial Oil,US Gulf Refinery Corp,Detroit,22492,67.75,1523833.0,rail,5.95,2025-04-19,NET60,19.81
+TI00030,PR0016,Canadian Natural Resources,Midwest Refining LLC,Chicago,20577,74.61,1535249.97,rail,5.68,2025-05-19,NET30,11.76
+TI00031,PR0022,Pengrowth Energy,Midwest Refining LLC,Cushing,28711,71.85,2062885.35,pipeline,9.51,2025-01-22,NET60,13.48
+TI00032,PR0051,Canadian Natural Resources,PBF Energy,Toledo,16679,49.99,833783.21,rail,8.4,2025-02-04,NET30,11.85
+TI00033,PR0055,Canadian Natural Resources,HollyFrontier,Wood River,18147,58.33,1058514.51,truck,7.99,2025-01-11,NET60,13.74
+TI00034,PR0093,Baytex Energy,Irving Oil,Montreal,3618,77.99,282167.82,pipeline,9.77,2025-05-04,NET45,16.74
+TI00035,PR0146,Husky Energy,Suncor Commerce City,Philadelphia,18803,66.31,1246826.93,pipeline,3.06,2025-10-06,NET45,14.28
+TI00036,PR0043,MEG Energy,HollyFrontier,Cushing,45855,75.01,3439583.55,pipeline,7.13,2025-11-04,NET60,14.05
+TI00037,PR0107,Baytex Energy,Suncor Commerce City,Wood River,43886,68.07,2987320.02,pipeline,7.14,2025-08-24,NET45,21.38
+TI00038,PR0106,Imperial Oil,Calumet Specialty,Chicago,13280,64.71,859348.8,pipeline,6.94,2025-10-24,NET60,19.03
+TI00039,PR0128,Pengrowth Energy,Midwest Refining LLC,Detroit,18643,71.74,1337448.82,rail,11.22,2025-12-20,NET30,16.15
+TI00040,PR0060,Imperial Oil,Valero Energy,Houston,23556,60.96,1435973.76,pipeline,3.37,2025-12-09,NET60,19.99
+TI00041,PR0159,Husky Energy,Irving Oil,Montreal,30946,84.87,2626387.02,truck,4.12,2025-08-09,NET30,16.39
+TI00042,PR0008,Athabasca Oil,US Gulf Refinery Corp,Montreal,13327,48.62,647958.74,truck,5.26,2025-12-24,NET60,20.48
+TI00043,PR0065,MEG Energy,Midwest Refining LLC,Detroit,30188,82.18,2480849.84,pipeline,9.84,2025-05-09,NET60,20.47
+TI00044,PR0121,Husky Energy,HollyFrontier,Montreal,16125,75.79,1222113.75,pipeline,7.82,2025-06-16,NET45,16.76
+TI00045,PR0150,Husky Energy,Phillips 66,Cushing,28757,56.31,1619306.67,pipeline,6.66,2025-07-02,PREPAID,20.29
+TI00046,PR0145,Husky Energy,Phillips 66,Chicago,30048,53.71,1613878.08,rail,2.34,2025-04-07,PREPAID,21.6
+TI00047,PR0003,Suncor Energy,HollyFrontier,Saint John,34689,62.24,2159043.36,truck,3.38,2025-02-09,PREPAID,9.98
+TI00048,PR0175,Suncor Energy,HollyFrontier,Houston,32299,51.72,1670504.28,rail,11.15,2025-02-04,NET30,19.09
+TI00049,PR0116,Pengrowth Energy,PBF Energy,Saint John,35133,72.13,2534143.29,pipeline,6.39,2025-12-07,PREPAID,16.54
+TI00050,PR0031,Canadian Natural Resources,Irving Oil,Sarnia,28573,73.02,2086400.46,truck,7.91,2025-10-13,NET45,14.4
+TI00051,PR0098,Suncor Energy,Phillips 66,Montreal,18164,46.1,837360.4,pipeline,3.77,2025-07-08,NET30,14.71
+TI00052,PR0166,Imperial Oil,Marathon Petroleum,Toledo,8864,80.94,717452.16,pipeline,11.27,2025-05-28,NET45,19.2
+TI00053,PR0046,Cenovus Energy,US Gulf Refinery Corp,Chicago,23500,77.91,1830885.0,truck,7.16,2025-06-14,NET60,19.33
+TI00054,PR0014,Whitecap Resources,Valero Energy,Saint John,35072,80.8,2833817.6,rail,7.3,2025-12-03,NET30,10.92
+TI00055,PR0197,Whitecap Resources,Marathon Petroleum,Toledo,44309,75.17,3330707.53,pipeline,4.24,2025-05-26,NET30,15.2
+TI00056,PR0094,Athabasca Oil,Irving Oil,Detroit,21991,55.18,1213463.38,pipeline,11.52,2025-04-02,NET60,18.32
+TI00057,PR0085,MEG Energy,HollyFrontier,Detroit,4921,65.12,320455.52,rail,9.28,2025-06-10,NET60,11.1
+TI00058,PR0153,Whitecap Resources,Valero Energy,Philadelphia,25374,49.05,1244594.7,rail,6.95,2025-03-22,PREPAID,17.27
+TI00059,PR0137,MEG Energy,Irving Oil,Chicago,48657,50.86,2474695.02,pipeline,7.91,2025-04-19,PREPAID,11.72
+TI00060,PR0048,Whitecap Resources,PBF Energy,Wood River,40414,47.7,1927747.8,rail,8.66,2025-12-06,NET60,8.28
+TI00061,PR0138,Cenovus Energy,Valero Energy,Wood River,27347,64.37,1760326.39,pipeline,5.33,2025-05-22,NET45,20.29
+TI00062,PR0157,Baytex Energy,Phillips 66,Toledo,10855,70.11,761044.05,pipeline,10.06,2025-05-17,NET45,20.13
+TI00063,PR0180,Suncor Energy,US Gulf Refinery Corp,Cushing,25864,79.56,2057739.84,rail,9.88,2025-06-01,NET60,16.76
+TI00064,PR0057,Imperial Oil,Calumet Specialty,Wood River,48388,57.03,2759567.64,rail,3.69,2025-02-10,PREPAID,20.59
+TI00065,PR0092,Canadian Natural Resources,Marathon Petroleum,Cushing,26635,64.96,1730209.6,pipeline,6.49,2025-01-01,NET30,20.92
+TI00066,PR0104,Imperial Oil,US Gulf Refinery Corp,Cushing,4701,54.75,257379.75,rail,3.21,2025-02-03,NET30,15.07
+TI00067,PR0019,MEG Energy,Suncor Commerce City,Cushing,13749,61.86,850513.14,pipeline,4.11,2025-05-18,NET45,12.79
+TI00068,PR0104,Suncor Energy,Marathon Petroleum,Chicago,32053,78.4,2512955.2,pipeline,2.8,2025-10-12,PREPAID,15.57
+TI00069,PR0179,Baytex Energy,US Gulf Refinery Corp,Saint John,31927,56.19,1793978.13,pipeline,3.51,2025-01-09,PREPAID,17.85
+TI00070,PR0166,Cenovus Energy,Phillips 66,Sarnia,4943,70.27,347344.61,rail,10.36,2025-11-19,NET30,18.54
+TI00071,PR0139,Whitecap Resources,Phillips 66,Montreal,1531,78.59,120321.29,rail,2.19,2025-02-19,PREPAID,17.23
+TI00072,PR0080,Athabasca Oil,Midwest Refining LLC,Chicago,32358,79.73,2579903.34,rail,8.9,2025-11-20,NET60,17.78
+TI00073,PR0015,Whitecap Resources,Valero Energy,Detroit,42492,77.8,3305877.6,rail,9.48,2025-08-25,NET45,8.95
+TI00074,PR0093,Suncor Energy,Midwest Refining LLC,Detroit,18322,70.95,1299945.9,pipeline,4.91,2025-12-27,NET60,13.14
+TI00075,PR0074,Baytex Energy,Midwest Refining LLC,Saint John,31105,51.25,1594131.25,pipeline,3.78,2025-10-01,PREPAID,12.55
+TI00076,PR0101,Imperial Oil,Irving Oil,Detroit,37205,84.06,3127452.3,pipeline,6.38,2025-03-01,NET30,9.77
+TI00077,PR0117,Athabasca Oil,Midwest Refining LLC,Chicago,48606,68.92,3349925.52,pipeline,10.96,2025-01-06,NET45,17.53
+TI00078,PR0039,Baytex Energy,Valero Energy,Montreal,14447,82.85,1196933.95,truck,8.92,2025-12-15,NET30,16.28
+TI00079,PR0134,MEG Energy,HollyFrontier,Detroit,20056,71.37,1431396.72,pipeline,4.84,2025-03-22,NET30,21.28
+TI00080,PR0142,Husky Energy,Irving Oil,Philadelphia,44545,56.88,2533719.6,pipeline,5.93,2025-11-13,PREPAID,21.07
+TI00081,PR0047,Imperial Oil,US Gulf Refinery Corp,Saint John,41554,73.7,3062529.8,pipeline,4.03,2025-03-14,NET30,17.12
+TI00082,PR0029,Canadian Natural Resources,PBF Energy,Wood River,19153,79.08,1514619.24,truck,3.26,2025-11-16,PREPAID,21.68
+TI00083,PR0029,Husky Energy,Valero Energy,Toledo,34538,75.53,2608655.14,rail,4.24,2025-08-18,PREPAID,15.46
+TI00084,PR0066,MEG Energy,Phillips 66,Saint John,42234,74.98,3166705.32,truck,3.36,2025-09-14,NET45,12.17
+TI00085,PR0032,Athabasca Oil,PBF Energy,Philadelphia,6781,56.7,384482.7,pipeline,6.1,2025-01-06,NET45,8.13
+TI00086,PR0155,Cenovus Energy,Marathon Petroleum,Detroit,24639,83.32,2052921.48,pipeline,8.77,2025-01-07,PREPAID,12.47
+TI00087,PR0018,Cenovus Energy,Phillips 66,Montreal,48801,58.98,2878282.98,pipeline,11.95,2025-06-18,NET60,9.06
+TI00088,PR0109,Pengrowth Energy,Suncor Commerce City,Wood River,7333,71.53,524529.49,pipeline,5.76,2025-03-15,NET45,8.84
+TI00089,PR0115,Husky Energy,HollyFrontier,Philadelphia,33532,65.48,2195675.36,pipeline,6.9,2025-08-12,NET60,17.19
+TI00090,PR0187,Imperial Oil,Marathon Petroleum,Philadelphia,9638,78.67,758221.46,rail,5.08,2025-04-26,NET60,13.66
+TI00091,PR0042,Canadian Natural Resources,Phillips 66,Cushing,1374,49.09,67449.66,pipeline,9.74,2025-08-26,NET30,15.15
+TI00092,PR0059,Cenovus Energy,Marathon Petroleum,Saint John,1122,75.05,84206.1,pipeline,3.24,2025-12-03,NET60,19.8
+TI00093,PR0125,Canadian Natural Resources,Marathon Petroleum,Detroit,35897,58.99,2117564.03,rail,11.25,2025-01-06,NET30,12.12
+TI00094,PR0067,Pengrowth Energy,Calumet Specialty,Cushing,31876,62.47,1991293.72,rail,9.43,2025-10-06,PREPAID,17.47
+TI00095,PR0191,Imperial Oil,Suncor Commerce City,Chicago,44530,74.07,3298337.1,pipeline,8.03,2025-05-09,NET60,11.28
+TI00096,PR0151,Athabasca Oil,Valero Energy,Cushing,25986,75.96,1973896.56,pipeline,7.91,2025-01-10,NET60,11.08
+TI00097,PR0128,Pengrowth Energy,Marathon Petroleum,Detroit,17359,69.93,1213914.87,pipeline,10.93,2025-12-24,NET30,14.0
+TI00098,PR0091,Suncor Energy,Valero Energy,Detroit,36735,54.01,1984057.35,pipeline,6.13,2025-03-21,NET60,10.78
+TI00099,PR0073,Pengrowth Energy,Marathon Petroleum,Montreal,9601,56.24,539960.24,pipeline,8.59,2025-10-23,NET45,12.81
+TI00100,PR0117,Canadian Natural Resources,Phillips 66,Cushing,27903,66.81,1864199.43,rail,5.79,2025-04-21,NET60,17.03
+TI00101,PR0043,Whitecap Resources,Midwest Refining LLC,Montreal,7977,78.33,624838.41,pipeline,2.89,2025-06-26,NET60,11.62
+TI00102,PR0126,Pengrowth Energy,Calumet Specialty,Chicago,12708,59.81,760065.48,rail,3.44,2025-05-08,NET60,16.07
+TI00103,PR0033,Suncor Energy,Marathon Petroleum,Chicago,14245,82.2,1170939.0,pipeline,4.56,2025-02-21,PREPAID,11.84
+TI00104,PR0183,Baytex Energy,PBF Energy,Wood River,29288,84.04,2461363.52,rail,9.22,2025-12-24,NET60,20.14
+TI00105,PR0025,Cenovus Energy,Marathon Petroleum,Cushing,17935,83.25,1493088.75,pipeline,10.26,2025-08-01,NET60,10.64
+TI00106,PR0135,Cenovus Energy,Valero Energy,Cushing,21326,51.29,1093810.54,pipeline,11.86,2025-12-04,NET60,12.45
+TI00107,PR0138,Canadian Natural Resources,Phillips 66,Sarnia,23317,58.04,1353318.68,pipeline,2.19,2025-03-26,PREPAID,10.81
+TI00108,PR0027,MEG Energy,Midwest Refining LLC,Montreal,24925,76.33,1902525.25,pipeline,5.63,2025-04-06,PREPAID,11.63
+TI00109,PR0030,Husky Energy,PBF Energy,Houston,14802,52.85,782285.7,pipeline,3.37,2025-09-11,NET45,21.81
+TI00110,PR0087,MEG Energy,Midwest Refining LLC,Chicago,13734,65.91,905207.94,truck,10.65,2025-11-17,PREPAID,12.03
+TI00111,PR0148,MEG Energy,Suncor Commerce City,Toledo,15219,63.03,959253.57,pipeline,9.17,2025-07-27,NET30,13.82
+TI00112,PR0142,Baytex Energy,HollyFrontier,Houston,22390,60.73,1359744.7,pipeline,4.84,2025-12-16,NET60,18.11
+TI00113,PR0030,Imperial Oil,Suncor Commerce City,Montreal,9241,58.31,538842.71,rail,10.69,2025-04-17,NET60,19.04
+TI00114,PR0139,Husky Energy,Calumet Specialty,Houston,11933,54.82,654167.06,pipeline,9.26,2025-03-18,PREPAID,14.2
+TI00115,PR0160,Cenovus Energy,Calumet Specialty,Wood River,31010,73.17,2269001.7,pipeline,3.33,2025-05-10,NET45,19.52
+TI00116,PR0053,Pengrowth Energy,PBF Energy,Toledo,18771,71.83,1348320.93,pipeline,9.77,2025-11-10,NET30,14.14
+TI00117,PR0178,Whitecap Resources,Suncor Commerce City,Wood River,30183,47.21,1424939.43,pipeline,9.43,2025-08-15,NET45,10.9
+TI00118,PR0140,Pengrowth Energy,Irving Oil,Chicago,6664,57.9,385845.6,pipeline,2.75,2025-05-10,NET30,11.84
+TI00119,PR0106,Cenovus Energy,Irving Oil,Cushing,47173,52.02,2453939.46,rail,7.1,2025-01-04,PREPAID,18.53
+TI00120,PR0044,MEG Energy,Calumet Specialty,Chicago,24152,71.27,1721313.04,pipeline,7.69,2025-12-12,PREPAID,11.71
+TI00121,PR0182,Husky Energy,Midwest Refining LLC,Sarnia,35731,61.68,2203888.08,pipeline,10.81,2025-10-26,NET60,17.77
+TI00122,PR0140,Imperial Oil,Phillips 66,Montreal,14426,58.7,846806.2,pipeline,6.1,2025-11-12,NET30,21.09
+TI00123,PR0084,Canadian Natural Resources,HollyFrontier,Detroit,25094,67.07,1683054.58,pipeline,5.14,2025-10-10,NET60,17.17
+TI00124,PR0051,Husky Energy,PBF Energy,Montreal,48261,45.01,2172227.61,rail,7.31,2025-07-10,NET30,18.23
+TI00125,PR0005,Athabasca Oil,Calumet Specialty,Sarnia,49775,55.91,2782920.25,pipeline,9.88,2025-03-10,PREPAID,13.43
+TI00126,PR0053,MEG Energy,HollyFrontier,Philadelphia,29626,49.64,1470634.64,truck,2.69,2025-05-07,NET60,12.96
+TI00127,PR0141,Suncor Energy,PBF Energy,Chicago,31282,66.93,2093704.26,pipeline,4.51,2025-10-27,NET45,17.4
+TI00128,PR0085,Suncor Energy,Midwest Refining LLC,Sarnia,1139,51.32,58453.48,truck,11.46,2025-07-12,NET60,10.86
+TI00129,PR0178,Baytex Energy,Valero Energy,Philadelphia,48407,70.6,3417534.2,pipeline,9.83,2025-06-23,NET45,9.18
+TI00130,PR0066,Whitecap Resources,Marathon Petroleum,Chicago,17986,60.99,1096966.14,pipeline,9.87,2025-02-11,NET45,14.13
+TI00131,PR0072,Baytex Energy,Midwest Refining LLC,Wood River,21997,52.24,1149123.28,truck,9.14,2025-06-15,NET60,18.34
+TI00132,PR0014,Imperial Oil,Calumet Specialty,Toledo,43586,84.98,3703938.28,pipeline,4.14,2025-11-14,PREPAID,10.52
+TI00133,PR0027,Whitecap Resources,Valero Energy,Wood River,25475,82.9,2111877.5,pipeline,10.69,2025-05-22,NET45,10.69
+TI00134,PR0156,Whitecap Resources,PBF Energy,Philadelphia,19010,48.56,923125.6,pipeline,9.12,2025-04-07,NET30,9.48
+TI00135,PR0024,Baytex Energy,Phillips 66,Cushing,23155,79.48,1840359.4,pipeline,6.33,2025-07-13,NET30,10.34
+TI00136,PR0027,MEG Energy,Valero Energy,Chicago,41380,46.4,1920032.0,pipeline,11.05,2025-05-03,NET60,21.18
+TI00137,PR0138,Pengrowth Energy,Midwest Refining LLC,Montreal,7540,69.13,521240.2,pipeline,5.22,2025-06-04,NET30,10.28
+TI00138,PR0110,Canadian Natural Resources,Calumet Specialty,Cushing,13024,84.16,1096099.84,rail,7.4,2025-04-18,NET60,19.26
+TI00139,PR0052,Imperial Oil,Irving Oil,Detroit,19061,57.51,1096198.11,pipeline,2.2,2025-03-26,NET30,17.49
+TI00140,PR0144,Suncor Energy,Phillips 66,Houston,7212,84.43,608909.16,truck,11.14,2025-03-17,NET30,18.73
+TI00141,PR0192,MEG Energy,US Gulf Refinery Corp,Sarnia,37559,67.62,2539739.58,pipeline,5.94,2025-10-19,NET30,15.34
+TI00142,PR0164,MEG Energy,Calumet Specialty,Philadelphia,47213,73.32,3461657.16,pipeline,7.41,2025-08-26,NET60,16.84
+TI00143,PR0191,Canadian Natural Resources,PBF Energy,Sarnia,26356,59.52,1568709.12,pipeline,3.93,2025-11-07,NET60,17.21
+TI00144,PR0134,Imperial Oil,US Gulf Refinery Corp,Sarnia,14451,50.77,733677.27,pipeline,8.87,2025-01-25,PREPAID,19.84
+TI00145,PR0028,Pengrowth Energy,PBF Energy,Montreal,16484,65.62,1081680.08,pipeline,11.06,2025-10-18,NET60,20.02
+TI00146,PR0106,Husky Energy,Phillips 66,Montreal,38098,52.56,2002430.88,pipeline,11.61,2025-03-23,NET60,15.29
+TI00147,PR0045,Baytex Energy,Valero Energy,Chicago,10204,64.32,656321.28,pipeline,4.07,2025-04-11,PREPAID,12.9
+TI00148,PR0044,Suncor Energy,Marathon Petroleum,Detroit,7160,59.14,423442.4,pipeline,6.27,2025-05-02,NET60,10.6
+TI00149,PR0058,MEG Energy,Marathon Petroleum,Cushing,26823,50.99,1367704.77,truck,5.54,2025-02-18,NET30,12.4
+TI00150,PR0173,Athabasca Oil,Valero Energy,Sarnia,24701,66.59,1644839.59,pipeline,4.25,2025-06-19,NET30,16.82
+TI00151,PR0155,Whitecap Resources,PBF Energy,Montreal,35573,52.62,1871851.26,rail,6.19,2025-06-27,NET45,17.84
+TI00152,PR0154,Imperial Oil,PBF Energy,Cushing,47593,60.91,2898889.63,rail,5.14,2025-06-07,PREPAID,19.77
+TI00153,PR0094,MEG Energy,HollyFrontier,Montreal,28678,83.11,2383428.58,truck,11.36,2025-05-01,PREPAID,10.86
+TI00154,PR0105,Athabasca Oil,Valero Energy,Montreal,21514,76.44,1644530.16,rail,5.52,2025-03-22,NET45,20.55
+TI00155,PR0096,Pengrowth Energy,PBF Energy,Chicago,44034,83.97,3697534.98,pipeline,2.21,2025-02-25,NET45,21.96
+TI00156,PR0082,Pengrowth Energy,Calumet Specialty,Wood River,40108,84.3,3381104.4,truck,11.13,2025-04-10,PREPAID,15.34
+TI00157,PR0026,Whitecap Resources,PBF Energy,Cushing,42972,63.1,2711533.2,truck,11.27,2025-02-10,NET60,13.6
+TI00158,PR0021,MEG Energy,Midwest Refining LLC,Montreal,29416,83.5,2456236.0,pipeline,3.8,2025-08-11,NET60,11.49
+TI00159,PR0013,Cenovus Energy,Phillips 66,Montreal,42179,67.35,2840755.65,pipeline,2.8,2025-12-23,PREPAID,18.2
+TI00160,PR0040,Whitecap Resources,Marathon Petroleum,Philadelphia,10452,68.93,720456.36,pipeline,4.37,2025-06-02,NET45,12.65
+TI00161,PR0004,MEG Energy,HollyFrontier,Montreal,46639,77.11,3596333.29,pipeline,5.05,2025-03-19,NET45,12.76
+TI00162,PR0163,Pengrowth Energy,US Gulf Refinery Corp,Cushing,22232,71.43,1588031.76,pipeline,2.95,2025-05-06,NET60,14.53
+TI00163,PR0121,Imperial Oil,PBF Energy,Sarnia,21958,58.51,1284762.58,truck,11.82,2025-11-26,PREPAID,18.69
+TI00164,PR0022,Husky Energy,Suncor Commerce City,Houston,25729,75.36,1938937.44,pipeline,10.55,2025-02-19,PREPAID,21.03
+TI00165,PR0194,Husky Energy,Midwest Refining LLC,Detroit,4611,51.27,236405.97,pipeline,10.57,2025-11-06,PREPAID,13.99
+TI00166,PR0090,Husky Energy,Phillips 66,Saint John,20053,60.27,1208594.31,pipeline,2.66,2025-08-09,NET45,13.27
+TI00167,PR0134,Imperial Oil,Phillips 66,Sarnia,36884,48.35,1783341.4,pipeline,8.66,2025-10-03,NET60,18.09
+TI00168,PR0008,MEG Energy,PBF Energy,Saint John,12398,72.45,898235.1,pipeline,10.37,2025-05-08,NET60,10.69
+TI00169,PR0186,Athabasca Oil,PBF Energy,Chicago,34613,77.22,2672815.86,rail,7.87,2025-07-08,NET45,10.14
+TI00170,PR0038,Whitecap Resources,Midwest Refining LLC,Toledo,21521,78.69,1693487.49,pipeline,4.27,2025-03-17,NET30,17.38
+TI00171,PR0072,Husky Energy,Phillips 66,Saint John,3492,78.34,273563.28,pipeline,3.66,2025-06-21,NET30,12.55
+TI00172,PR0112,Whitecap Resources,Calumet Specialty,Houston,45428,58.1,2639366.8,pipeline,8.72,2025-05-26,PREPAID,19.24
+TI00173,PR0155,Whitecap Resources,PBF Energy,Houston,25013,45.13,1128836.69,pipeline,7.11,2025-02-08,NET45,17.08
+TI00174,PR0036,Imperial Oil,Calumet Specialty,Cushing,28941,65.84,1905475.44,pipeline,6.45,2025-08-05,NET45,13.89
+TI00175,PR0099,Husky Energy,Calumet Specialty,Detroit,11066,72.77,805272.82,pipeline,5.32,2025-06-16,PREPAID,9.34
+TI00176,PR0020,Imperial Oil,Calumet Specialty,Chicago,48911,79.02,3864947.22,pipeline,9.09,2025-04-04,NET60,15.13
+TI00177,PR0090,Athabasca Oil,Phillips 66,Cushing,13897,46.15,641346.55,pipeline,5.41,2025-02-17,NET45,11.09
+TI00178,PR0012,Canadian Natural Resources,Valero Energy,Houston,28089,54.82,1539838.98,pipeline,7.96,2025-05-18,PREPAID,16.88
+TI00179,PR0094,Husky Energy,HollyFrontier,Philadelphia,30541,68.72,2098777.52,rail,9.63,2025-05-08,PREPAID,21.74
+TI00180,PR0134,Imperial Oil,Phillips 66,Philadelphia,20311,56.38,1145134.18,pipeline,5.64,2025-05-11,NET60,17.01
+TI00181,PR0083,Cenovus Energy,Valero Energy,Cushing,7572,46.12,349220.64,pipeline,7.23,2025-04-08,PREPAID,12.93
+TI00182,PR0047,Athabasca Oil,US Gulf Refinery Corp,Saint John,48253,78.99,3811504.47,pipeline,2.21,2025-10-13,NET60,8.73
+TI00183,PR0081,Athabasca Oil,US Gulf Refinery Corp,Wood River,46610,69.8,3253378.0,pipeline,7.13,2025-06-05,NET30,13.98
+TI00184,PR0063,Imperial Oil,Irving Oil,Detroit,20414,83.58,1706202.12,rail,3.75,2025-09-18,NET30,21.28
+TI00185,PR0003,Suncor Energy,PBF Energy,Toledo,3089,74.86,231242.54,truck,5.66,2025-05-14,NET60,17.69
+TI00186,PR0180,Imperial Oil,Valero Energy,Houston,43571,63.58,2770244.18,pipeline,5.38,2025-11-13,NET60,10.22
+TI00187,PR0184,Whitecap Resources,Midwest Refining LLC,Cushing,32275,54.26,1751241.5,pipeline,5.3,2025-07-21,NET30,10.22
+TI00188,PR0106,Whitecap Resources,PBF Energy,Philadelphia,12927,56.58,731409.66,truck,9.57,2025-11-26,PREPAID,19.25
+TI00189,PR0084,Pengrowth Energy,HollyFrontier,Wood River,35766,63.07,2255761.62,pipeline,4.22,2025-09-28,PREPAID,11.27
+TI00190,PR0036,Suncor Energy,HollyFrontier,Sarnia,35357,60.51,2139452.07,rail,4.34,2025-06-28,PREPAID,17.63
+TI00191,PR0147,Whitecap Resources,Calumet Specialty,Detroit,39045,79.61,3108372.45,pipeline,3.26,2025-08-23,NET45,13.72
+TI00192,PR0058,Pengrowth Energy,US Gulf Refinery Corp,Sarnia,17900,54.3,971970.0,pipeline,2.25,2025-11-17,NET60,9.77
+TI00193,PR0168,Husky Energy,HollyFrontier,Cushing,9296,84.39,784489.44,pipeline,8.67,2025-09-21,NET30,16.23
+TI00194,PR0199,Whitecap Resources,Irving Oil,Wood River,5081,52.54,266955.74,pipeline,5.97,2025-10-23,PREPAID,9.3
+TI00195,PR0054,Suncor Energy,Suncor Commerce City,Montreal,9607,71.43,686228.01,truck,7.33,2025-11-22,NET60,8.84
+TI00196,PR0090,Canadian Natural Resources,Calumet Specialty,Toledo,36943,69.64,2572710.52,pipeline,5.3,2025-11-27,PREPAID,10.67
+TI00197,PR0195,Suncor Energy,Valero Energy,Cushing,32039,46.85,1501027.15,pipeline,4.89,2025-05-24,NET60,8.64
+TI00198,PR0054,Whitecap Resources,HollyFrontier,Wood River,8225,48.22,396609.5,truck,6.85,2025-04-12,NET60,19.43
+TI00199,PR0128,Baytex Energy,Valero Energy,Wood River,10022,82.25,824309.5,pipeline,5.66,2025-01-01,PREPAID,9.29
+TI00200,PR0040,Athabasca Oil,US Gulf Refinery Corp,Houston,28225,77.24,2180099.0,truck,5.84,2025-03-06,NET45,19.79
+TI00201,PR0116,Husky Energy,HollyFrontier,Sarnia,3301,60.9,201030.9,pipeline,2.61,2025-04-14,NET45,20.3
+TI00202,PR0062,Canadian Natural Resources,Suncor Commerce City,Montreal,44970,75.03,3374099.1,pipeline,2.93,2025-06-13,NET30,19.1
+TI00203,PR0173,Baytex Energy,Marathon Petroleum,Chicago,18986,82.12,1559130.32,rail,3.21,2025-08-23,PREPAID,18.2
+TI00204,PR0079,Suncor Energy,Phillips 66,Detroit,19007,83.17,1580812.19,truck,11.89,2025-04-05,NET45,20.96
+TI00205,PR0025,Canadian Natural Resources,Marathon Petroleum,Chicago,18077,61.72,1115712.44,pipeline,10.49,2025-09-10,NET45,9.86
+TI00206,PR0005,Imperial Oil,Irving Oil,Wood River,24931,64.85,1616775.35,pipeline,9.71,2025-06-09,NET60,11.19
+TI00207,PR0009,Athabasca Oil,Marathon Petroleum,Wood River,11235,81.29,913293.15,truck,5.31,2025-10-24,PREPAID,21.84
+TI00208,PR0090,Athabasca Oil,US Gulf Refinery Corp,Montreal,23488,70.53,1656608.64,rail,5.65,2025-06-21,NET60,17.69
+TI00209,PR0162,Pengrowth Energy,Irving Oil,Detroit,34728,79.93,2775809.04,pipeline,4.47,2025-01-01,NET60,13.48
+TI00210,PR0173,Pengrowth Energy,Marathon Petroleum,Wood River,38207,83.45,3188374.15,pipeline,11.96,2025-12-08,NET60,17.0
+TI00211,PR0004,Husky Energy,PBF Energy,Wood River,29566,54.67,1616373.22,truck,11.69,2025-04-06,PREPAID,20.45
+TI00212,PR0180,Husky Energy,Valero Energy,Saint John,2354,68.34,160872.36,rail,10.6,2025-02-18,NET30,8.47
+TI00213,PR0004,Canadian Natural Resources,Irving Oil,Detroit,37060,60.67,2248430.2,pipeline,4.57,2025-08-11,NET30,8.87
+TI00214,PR0003,Baytex Energy,Suncor Commerce City,Saint John,21978,48.67,1069669.26,rail,9.53,2025-08-12,NET30,17.43
+TI00215,PR0092,Baytex Energy,Valero Energy,Sarnia,42709,63.62,2717146.58,pipeline,3.43,2025-07-01,NET60,15.45
+TI00216,PR0112,Whitecap Resources,US Gulf Refinery Corp,Montreal,24514,49.35,1209765.9,pipeline,3.39,2025-01-05,PREPAID,19.52
+TI00217,PR0049,Athabasca Oil,Suncor Commerce City,Sarnia,37156,62.43,2319649.08,pipeline,6.79,2025-10-16,PREPAID,20.94
+TI00218,PR0131,Imperial Oil,US Gulf Refinery Corp,Saint John,18388,61.31,1127368.28,truck,8.62,2025-11-04,NET60,21.3
+TI00219,PR0183,MEG Energy,Midwest Refining LLC,Cushing,45365,64.88,2943281.2,truck,8.21,2025-03-13,NET30,10.46
+TI00220,PR0071,Pengrowth Energy,Calumet Specialty,Sarnia,7859,81.51,640587.09,truck,2.96,2025-11-05,NET45,14.37
+TI00221,PR0072,Whitecap Resources,Irving Oil,Philadelphia,23691,68.66,1626624.06,pipeline,8.72,2025-08-22,NET30,19.03
+TI00222,PR0077,Athabasca Oil,HollyFrontier,Houston,6024,76.52,460956.48,rail,4.72,2025-02-09,NET60,14.42
+TI00223,PR0065,Athabasca Oil,PBF Energy,Detroit,33597,63.03,2117618.91,truck,8.55,2025-01-16,NET60,8.98
+TI00224,PR0070,Cenovus Energy,Marathon Petroleum,Cushing,35801,80.28,2874104.28,pipeline,8.89,2025-11-17,NET45,21.75
+TI00225,PR0117,Whitecap Resources,Irving Oil,Detroit,40282,63.21,2546225.22,truck,3.86,2025-04-22,NET60,19.98
+TI00226,PR0070,Pengrowth Energy,Calumet Specialty,Sarnia,18689,46.94,877261.66,truck,2.65,2025-04-06,PREPAID,8.65
+TI00227,PR0164,Cenovus Energy,Marathon Petroleum,Toledo,34280,60.95,2089366.0,rail,8.71,2025-12-18,NET45,15.95
+TI00228,PR0166,Whitecap Resources,Phillips 66,Cushing,5313,68.78,365428.14,pipeline,3.38,2025-02-20,NET60,13.45
+TI00229,PR0090,Whitecap Resources,Midwest Refining LLC,Detroit,17838,47.53,847840.14,rail,4.51,2025-10-16,NET60,18.5
+TI00230,PR0096,Suncor Energy,Calumet Specialty,Philadelphia,22812,72.13,1645429.56,pipeline,6.31,2025-09-27,PREPAID,10.87
+TI00231,PR0113,Suncor Energy,Marathon Petroleum,Sarnia,7394,57.7,426633.8,pipeline,4.11,2025-03-06,NET45,21.21
+TI00232,PR0062,Whitecap Resources,Marathon Petroleum,Cushing,31946,74.26,2372309.96,truck,8.96,2025-11-15,NET30,17.23
+TI00233,PR0029,Imperial Oil,Midwest Refining LLC,Cushing,34727,62.89,2183981.03,rail,4.84,2025-04-20,NET30,18.85
+TI00234,PR0192,Imperial Oil,Irving Oil,Sarnia,43346,67.15,2910683.9,truck,3.5,2025-01-08,NET30,18.99
+TI00235,PR0134,Husky Energy,HollyFrontier,Wood River,39910,58.0,2314780.0,pipeline,2.77,2025-03-17,NET60,12.71
+TI00236,PR0081,Cenovus Energy,HollyFrontier,Cushing,8363,50.8,424840.4,pipeline,8.3,2025-08-05,NET30,9.03
+TI00237,PR0156,Whitecap Resources,PBF Energy,Toledo,23921,57.6,1377849.6,pipeline,5.16,2025-01-23,NET60,11.49
+TI00238,PR0173,Canadian Natural Resources,PBF Energy,Detroit,37304,82.23,3067507.92,pipeline,4.08,2025-02-20,NET45,12.74
+TI00239,PR0079,Husky Energy,Suncor Commerce City,Toledo,31299,57.28,1792806.72,truck,3.14,2025-01-19,NET30,16.31
+TI00240,PR0167,Athabasca Oil,Calumet Specialty,Saint John,30017,54.11,1624219.87,truck,8.98,2025-06-16,PREPAID,14.0
+TI00241,PR0072,Whitecap Resources,HollyFrontier,Toledo,40893,84.31,3447688.83,pipeline,6.21,2025-06-09,PREPAID,13.46
+TI00242,PR0172,Whitecap Resources,Midwest Refining LLC,Houston,20886,53.57,1118863.02,truck,6.32,2025-11-24,NET30,11.45
+TI00243,PR0024,Baytex Energy,PBF Energy,Sarnia,36401,49.45,1800029.45,truck,9.99,2025-05-04,PREPAID,15.74
+TI00244,PR0164,Canadian Natural Resources,HollyFrontier,Chicago,24432,76.65,1872712.8,pipeline,6.5,2025-04-18,NET60,14.46
+TI00245,PR0176,Athabasca Oil,PBF Energy,Saint John,29169,47.87,1396320.03,rail,5.65,2025-08-24,NET30,8.61
+TI00246,PR0179,Whitecap Resources,Midwest Refining LLC,Saint John,36163,67.38,2436662.94,truck,4.77,2025-09-19,NET30,11.79
+TI00247,PR0093,Whitecap Resources,Irving Oil,Houston,28328,72.95,2066527.6,pipeline,10.57,2025-05-24,NET45,16.55
+TI00248,PR0081,Whitecap Resources,HollyFrontier,Sarnia,32815,47.55,1560353.25,pipeline,6.02,2025-09-19,PREPAID,15.85
+TI00249,PR0105,Suncor Energy,PBF Energy,Saint John,41036,70.68,2900424.48,pipeline,8.15,2025-03-27,NET45,16.41
+TI00250,PR0116,Imperial Oil,Irving Oil,Houston,38900,55.02,2140278.0,pipeline,6.11,2025-02-10,NET30,14.35
+TI00251,PR0073,Imperial Oil,Valero Energy,Philadelphia,27670,59.54,1647471.8,rail,9.0,2025-10-12,NET45,12.55
+TI00252,PR0086,Suncor Energy,Suncor Commerce City,Sarnia,47706,56.82,2710654.92,pipeline,5.12,2025-07-11,NET45,10.22
+TI00253,PR0153,Baytex Energy,Suncor Commerce City,Wood River,27674,78.54,2173515.96,pipeline,8.33,2025-06-01,NET45,10.29
+TI00254,PR0063,Suncor Energy,HollyFrontier,Saint John,32462,45.77,1485785.74,pipeline,11.77,2025-07-20,NET60,9.25
+TI00255,PR0095,MEG Energy,HollyFrontier,Toledo,11645,46.37,539978.65,pipeline,6.54,2025-03-12,NET45,10.16
+TI00256,PR0188,Whitecap Resources,Marathon Petroleum,Montreal,8310,60.56,503253.6,truck,9.21,2025-11-28,NET30,19.05
+TI00257,PR0018,Pengrowth Energy,PBF Energy,Houston,25942,83.51,2166416.42,rail,7.59,2025-09-23,NET60,15.29
+TI00258,PR0143,Husky Energy,Valero Energy,Cushing,17370,63.19,1097610.3,pipeline,10.69,2025-10-01,NET60,16.45
+TI00259,PR0082,Husky Energy,HollyFrontier,Detroit,25463,66.5,1693289.5,pipeline,2.05,2025-04-23,NET30,17.59
+TI00260,PR0048,Canadian Natural Resources,Calumet Specialty,Philadelphia,48419,81.47,3944695.93,pipeline,2.69,2025-06-12,PREPAID,14.73
+TI00261,PR0087,Baytex Energy,Calumet Specialty,Houston,37697,52.57,1981731.29,rail,8.64,2025-05-17,NET60,9.04
+TI00262,PR0184,Whitecap Resources,Valero Energy,Sarnia,5452,66.17,360758.84,pipeline,7.31,2025-12-13,PREPAID,14.59
+TI00263,PR0151,Suncor Energy,Valero Energy,Sarnia,36911,58.16,2146743.76,truck,5.39,2025-05-27,NET30,9.44
+TI00264,PR0115,MEG Energy,Suncor Commerce City,Detroit,44541,54.65,2434165.65,rail,9.61,2025-02-13,NET45,19.66
+TI00265,PR0179,Whitecap Resources,HollyFrontier,Wood River,48803,69.61,3397176.83,truck,8.91,2025-01-10,NET45,18.3
+TI00266,PR0109,Canadian Natural Resources,US Gulf Refinery Corp,Wood River,13528,67.48,912869.44,pipeline,11.55,2025-02-17,NET30,11.19
+TI00267,PR0022,Imperial Oil,Calumet Specialty,Saint John,40142,59.73,2397681.66,pipeline,7.73,2025-04-23,PREPAID,10.97
+TI00268,PR0070,Athabasca Oil,Phillips 66,Chicago,29451,50.61,1490515.11,pipeline,4.92,2025-12-18,PREPAID,13.88
+TI00269,PR0130,Canadian Natural Resources,US Gulf Refinery Corp,Philadelphia,7156,59.69,427141.64,truck,3.36,2025-05-10,PREPAID,12.88
+TI00270,PR0129,Imperial Oil,Midwest Refining LLC,Wood River,46057,82.79,3813059.03,pipeline,9.13,2025-12-21,NET30,14.79
+TI00271,PR0098,Baytex Energy,HollyFrontier,Detroit,39503,72.64,2869497.92,pipeline,11.62,2025-06-10,NET30,14.1
+TI00272,PR0091,Canadian Natural Resources,Phillips 66,Toledo,32185,47.94,1542948.9,rail,7.78,2025-12-25,NET30,10.96
+TI00273,PR0123,Baytex Energy,Phillips 66,Cushing,2549,71.21,181514.29,rail,11.17,2025-07-27,PREPAID,9.44
+TI00274,PR0078,Pengrowth Energy,PBF Energy,Houston,22389,45.04,1008400.56,pipeline,11.15,2025-01-25,NET60,9.13
+TI00275,PR0148,Baytex Energy,HollyFrontier,Toledo,33916,49.14,1666632.24,pipeline,8.86,2025-05-22,NET30,16.54
+TI00276,PR0084,Athabasca Oil,HollyFrontier,Philadelphia,25533,52.17,1332056.61,pipeline,10.53,2025-09-03,PREPAID,14.7
+TI00277,PR0152,Cenovus Energy,US Gulf Refinery Corp,Sarnia,18022,70.74,1274876.28,rail,5.66,2025-02-25,PREPAID,19.13
+TI00278,PR0061,Whitecap Resources,Marathon Petroleum,Houston,47491,66.5,3158151.5,pipeline,11.28,2025-12-25,NET45,15.59
+TI00279,PR0183,Baytex Energy,Phillips 66,Toledo,1193,56.35,67225.55,rail,8.68,2025-07-12,NET30,11.75
+TI00280,PR0143,MEG Energy,PBF Energy,Saint John,38036,49.1,1867567.6,truck,10.02,2025-09-07,NET30,20.48
+TI00281,PR0010,Imperial Oil,Suncor Commerce City,Cushing,1876,53.87,101060.12,pipeline,11.67,2025-09-18,NET45,20.96
+TI00282,PR0176,Athabasca Oil,HollyFrontier,Detroit,48620,78.49,3816183.8,pipeline,5.87,2025-12-13,PREPAID,18.98
+TI00283,PR0088,Cenovus Energy,Suncor Commerce City,Montreal,23884,60.88,1454057.92,truck,6.14,2025-07-20,NET30,13.81
+TI00284,PR0170,Baytex Energy,US Gulf Refinery Corp,Philadelphia,23848,63.82,1521979.36,rail,5.31,2025-06-17,NET45,20.09
+TI00285,PR0147,Pengrowth Energy,Irving Oil,Montreal,29403,81.07,2383701.21,pipeline,10.6,2025-02-13,NET60,10.04
+TI00286,PR0051,Cenovus Energy,Midwest Refining LLC,Montreal,29421,75.65,2225698.65,rail,5.64,2025-06-07,NET45,17.42
+TI00287,PR0096,Canadian Natural Resources,Midwest Refining LLC,Philadelphia,44734,49.28,2204491.52,truck,4.58,2025-11-17,NET30,9.66
+TI00288,PR0009,Whitecap Resources,HollyFrontier,Chicago,16350,47.67,779404.5,pipeline,7.11,2025-06-21,PREPAID,12.92
+TI00289,PR0113,Whitecap Resources,US Gulf Refinery Corp,Philadelphia,38995,74.13,2890699.35,pipeline,6.26,2025-02-13,NET30,19.14
+TI00290,PR0174,Imperial Oil,Midwest Refining LLC,Saint John,23156,53.57,1240466.92,truck,6.13,2025-11-13,NET30,10.98
+TI00291,PR0190,Cenovus Energy,US Gulf Refinery Corp,Cushing,38352,46.63,1788353.76,pipeline,10.69,2025-11-10,NET45,13.67
+TI00292,PR0099,Athabasca Oil,Marathon Petroleum,Wood River,48991,58.66,2873812.06,rail,8.9,2025-08-03,NET45,19.24
+TI00293,PR0086,Cenovus Energy,Midwest Refining LLC,Sarnia,30350,65.33,1982765.5,truck,9.24,2025-10-18,NET45,12.29
+TI00294,PR0093,Husky Energy,Marathon Petroleum,Detroit,42000,70.38,2955960.0,rail,2.72,2025-11-10,NET30,8.3
+TI00295,PR0135,Cenovus Energy,Suncor Commerce City,Cushing,6756,62.0,418872.0,pipeline,5.04,2025-03-17,NET45,10.86
+TI00296,PR0142,Athabasca Oil,Valero Energy,Chicago,47138,70.78,3336427.64,pipeline,9.97,2025-11-03,PREPAID,12.78
+TI00297,PR0060,Suncor Energy,Midwest Refining LLC,Montreal,20428,73.58,1503092.24,truck,11.01,2025-02-26,NET45,9.77
+TI00298,PR0043,Suncor Energy,HollyFrontier,Montreal,36798,77.66,2857732.68,truck,4.4,2025-10-06,NET45,21.87
+TI00299,PR0071,Imperial Oil,Calumet Specialty,Sarnia,14667,65.49,960541.83,pipeline,7.91,2025-10-19,NET30,9.84
+TI00300,PR0001,Pengrowth Energy,Marathon Petroleum,Montreal,8754,67.83,593783.82,rail,9.27,2025-02-19,NET45,11.36
