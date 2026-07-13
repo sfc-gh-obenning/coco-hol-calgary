@@ -10,7 +10,7 @@ render_technologies_used([
 ])
 
 
-PROMPT_2_1 = """In ENERGY_AI.OPS, create a semantic view called ENERGY_OPERATIONS_VIEW for use with Cortex Analyst. It should cover these tables: FACILITIES, PIPELINES, PRODUCTION_RECORDS, TRANSPORT_INVOICES, PIPELINE_THROUGHPUT, WELL_MONITORING.
+PROMPT_2_1 = """/semantic_studio In ENERGY_AI.OPS, create a semantic view called ENERGY_OPERATIONS_VIEW for use with Cortex Analyst. It should cover these tables: FACILITIES, PIPELINES, PRODUCTION_RECORDS, TRANSPORT_INVOICES, PIPELINE_THROUGHPUT, WELL_MONITORING.
 
 Include:
 - Proper relationships between the tables (production_records joins to facilities via facility_id, production_records joins to pipelines via pipeline_id, transport_invoices joins to production_records via record_id, pipeline_throughput joins to pipelines via pipeline_id and facilities via facility_id, well_monitoring joins to facilities via facility_id)
