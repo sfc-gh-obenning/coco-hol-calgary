@@ -53,12 +53,12 @@ Use CREATE TABLE with INFER_SCHEMA from a stage and then COPY INTO them. The key
 Execute all SQL."""
 
 st.markdown("""
-**Before running the prompt below, download the 9 CSV files and upload them to the `DATA` stage:**
+**Before running the prompt below, download the CSV files and upload them to the `DATA` stage:**
 
-1. Download all files from [github.com/sfc-gh-obenning/coco-hol-calgary/tree/main/workshop_guide/data](https://github.com/sfc-gh-obenning/coco-hol-calgary/tree/main/workshop_guide/data):
-   `facilities.csv`, `pipelines.csv`, `production_records.csv`, `transport_invoices.csv`, `pipeline_throughput.csv`, `well_monitoring.csv`, `safety_incident_logs.csv`, `environmental_reports.csv`, `aer_inspection_reports.csv`
-2. Using Snowsight, use the Horizon Catalog to browse to the `ENERGY_AI.OPS.DATA` stage to upload all 9 files.
-3. Then copy the prompt below into Cortex Code and execute.
+1. Download the zip file containing all 9 CSVs: [energy_data.zip](https://github.com/sfc-gh-obenning/coco-hol-calgary/raw/refs/heads/main/workshop_guide/data/energy_data.zip)
+2. Unzip the file on your computer to get the 9 individual CSV files.
+3. Using Snowsight, use the Horizon Catalog to browse to the `ENERGY_AI.OPS.DATA` stage and upload all 9 CSV files.
+4. Then copy the prompt below into Cortex Code and execute.
 """)
 
 render_prompt("Prompt 1.2", "Load and Create Tables from CSV", PROMPT_1_2)
