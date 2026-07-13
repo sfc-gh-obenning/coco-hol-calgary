@@ -13,7 +13,19 @@ render_technologies_used([
 PROMPT_2_1 = """/semantic_studio In ENERGY_AI.OPS, create a semantic view called ENERGY_OPERATIONS_VIEW for use with Cortex Analyst. It should cover these tables: FACILITIES, PIPELINES, PRODUCTION_RECORDS, TRANSPORT_INVOICES, PIPELINE_THROUGHPUT, WELL_MONITORING.
 
 Include:
-- Proper relationships between the tables (production_records joins to facilities via facility_id, production_records joins to pipelines via pipeline_id, transport_invoices joins to production_records via record_id, pipeline_throughput joins to pipelines via pipeline_id and facilities via facility_id, well_monitoring joins to facilities via facility_id)
+- Relationships between the tables following these rules:
+  - Do NOT specify join_type — omit it entirely (the proto enum doesn't accept string values like many_to_one)
+  - Convention: left_table = fact/many side, right_table = dimension/one side (put the table with many rows as left_table)
+  - Define primary_key.columns on dimension tables (FACILITIES and PIPELINES) so the engine knows the "one" side
+  - Use this template for each relationship:
+    relationships:
+      - name: <descriptive_name>
+        left_table: <FACT_TABLE>
+        right_table: <DIMENSION_TABLE>
+        relationship_columns:
+          - left_column: <FK_COLUMN>
+            right_column: <PK_COLUMN>
+  - Relationships needed: production_records→facilities, production_records→pipelines, transport_invoices→production_records, pipeline_throughput→pipelines, pipeline_throughput→facilities, well_monitoring→facilities
 - Facts for key numeric columns: volume_barrels, volume_cubic_meters, api_gravity, sulfur_content_pct, water_cut_pct, royalty_rate_pct, price_per_barrel_cad, total_value_cad, throughput_bpd, pressure_kpa, temperature_celsius, utilization_pct, steam_injection_rate, oil_production_rate, sor_ratio
 - Dimensions for categorical columns like product_type, facility_name, pipeline_name, operator, facility_type, pipeline_type, aer_compliance_status, transport_mode, destination_city, status, well_pad, and all date/time columns
 - Add useful SYNONYMS (e.g. facility_name could be 'plant' or 'site', pipeline_name could be 'line', product_type could be 'crude type' or 'commodity')
